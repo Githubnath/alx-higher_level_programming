@@ -85,4 +85,4 @@ Exits with a status code of 1.
 
 13. ByteCode -> Python #1
 
-102-magic_calculation.py: Python function matching exactly a bytecode provided by Holberton School.
+102-magic_calculation.py: Python function matching exactly a bytecode provided..
